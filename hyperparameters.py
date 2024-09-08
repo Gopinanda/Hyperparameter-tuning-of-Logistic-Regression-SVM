@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from mlxtend.plotting import plot_decision_regions
 
-
+st.image("hyperparameter_.jpg")
 st.title("Dynamic Dataset and Hyperparameter Tuning for Logistic Regression & SVM")
 
 st.sidebar.header("Customize the Dataset")
